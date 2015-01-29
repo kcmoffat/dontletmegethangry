@@ -1,0 +1,21 @@
+#form-container {
+	display: inline-block;
+	text-align: center;
+	width: 50%;
+}
+
+#firstRowDiv {
+	height:500px;
+}
+
+#secondRowDiv {
+	height:500px;
+}
+
+body { 
+  background: url(http://dontletmegethangry.com/static/images/firstworldproblemscover.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
